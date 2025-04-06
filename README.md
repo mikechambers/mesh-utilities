@@ -1,2 +1,3 @@
-# utilities
-Random scripts and utilities
+# mesh-utilities
+
+Random scripts and utilities.
